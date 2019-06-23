@@ -14,7 +14,7 @@ position:fixed;
 body{text-align:center;
 }
 .Box{margin-left: 33%;margin-top: 5%;
-  ;border:5px Solid grey;
+  ;border:10px Solid grey;
   width:400px;
 height:700px;
  position:fixed; background-color: #FFE4C4
